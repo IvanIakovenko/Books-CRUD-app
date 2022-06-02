@@ -1,0 +1,12 @@
+.nav {
+	height: 80px;
+}
+
+.nav-item a {
+	padding: 12px 18px;
+	color: black;
+}
+
+.nav-item a:hover {
+	background-color: yellow;
+}
